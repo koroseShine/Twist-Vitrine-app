@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240">
+<defs>
+  <linearGradient id="g2" x1="0" x2="1">
+    <stop offset="0" stop-color="#00ffd5"/>
+    <stop offset="1" stop-color="#9d00ff"/>
+  </linearGradient>
+</defs>
+<rect fill="none" width="600" height="240"/>
+<path d="M80 20 C110 20 160 52 160 102 C160 152 110 192 80 192 C50 192 10 152 10 102 C10 52 50 20 80 20 Z" fill="url(#g2)"/>
+<text x="220" y="140" font-family="Orbitron, sans-serif" font-size="96" fill="url(#g2)">Twist</text>
+</svg>
